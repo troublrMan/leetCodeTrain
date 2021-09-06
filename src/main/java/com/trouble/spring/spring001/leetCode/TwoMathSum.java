@@ -8,5 +8,5 @@ package com.trouble.spring.spring001.leetCode;
  **/
 public class TwoMathSum {
 
-    
+
 }
