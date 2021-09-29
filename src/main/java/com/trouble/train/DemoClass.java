@@ -1,4 +1,4 @@
-package com.trouble.spring.spring001;
+package com.trouble.train;
 
 /**
  * @author troubleMan

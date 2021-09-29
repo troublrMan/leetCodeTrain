@@ -1,6 +1,4 @@
-package com.trouble.spring.spring001.leetCode;
-
-import org.springframework.http.converter.json.GsonBuilderUtils;
+package com.trouble.train.leetCode;
 
 /**
  * @author troubleMan

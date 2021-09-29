@@ -1,4 +1,4 @@
-package com.trouble.spring.spring001;
+package com.trouble.train;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
