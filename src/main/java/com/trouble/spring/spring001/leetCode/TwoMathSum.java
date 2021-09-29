@@ -1,5 +1,7 @@
 package com.trouble.spring.spring001.leetCode;
 
+import org.springframework.http.converter.json.GsonBuilderUtils;
+
 /**
  * @author troubleMan
  * @description 两数之和
@@ -8,5 +10,9 @@ package com.trouble.spring.spring001.leetCode;
  **/
 public class TwoMathSum {
 
+
+    public static void main(String[] args) {
+        System.out.println("test");
+    }
 
 }
