@@ -77,6 +77,8 @@ public class DemoClass {
         Integer age;
         Integer hight;
 
+        String test;
+
         public String getName() {
             return name;
         }
