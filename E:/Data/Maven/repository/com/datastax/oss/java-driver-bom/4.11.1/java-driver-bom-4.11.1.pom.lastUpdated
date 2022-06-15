@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jun 08 17:20:30 CST 2022
+http\://maven.yupaopao.com/nexus/content/groups/public/.error=Could not transfer artifact com.datastax.oss\:java-driver-bom\:pom\:4.11.1 from/to nexus-aliyun (http\://maven.yupaopao.com/nexus/content/groups/public)\: Connect to maven.yupaopao.com\:80 [maven.yupaopao.com/10.111.4.161] failed\: Operation timed out (Connection timed out)
+https\://maven.aliyun.com/repository/public/.lastUpdated=1654680030406
+@default-nexus-aliyun-http\://maven.yupaopao.com/nexus/content/groups/public/.lastUpdated=1654680029645
