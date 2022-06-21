@@ -1,9 +1,11 @@
 package com.trouble.train.dto;
 
 import lombok.Data;
+import org.hibernate.validator.constraints.Length;
 
 import javax.validation.constraints.NotBlank;
-import javax.validation.constraints.NotEmpty;
+import javax.validation.constraints.NotNull;
+import javax.validation.constraints.Size;
 import java.io.Serializable;
 
 /**
@@ -16,7 +18,8 @@ import java.io.Serializable;
 public class ParamVerifyRequest implements Serializable {
 
 
-    @NotEmpty(message = "userName is not empty!")
+    @NotNull
+    @Size(min = 2, max = 10)
     private String userName;
 
 
