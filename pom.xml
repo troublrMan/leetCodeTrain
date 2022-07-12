@@ -44,6 +44,12 @@
             <version>1.18.20.0</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>27.0.1-jre</version>
+        </dependency>
+
 <!--        <dependency>-->
 <!--            <groupId>org.hibernate.validator</groupId>-->
 <!--            <artifactId>hibernate-validator</artifactId>-->
