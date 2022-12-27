@@ -8,7 +8,7 @@ package com.trouble.train.design;
  **/
 public class Singleton {
 
-  private static  Singleton instance;
+  private  static volatile Singleton instance;
 
    private Singleton(){
 
